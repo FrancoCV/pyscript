@@ -1,0 +1,10 @@
+REPO 
+https://github.com/pyscript/pyscript
+
+
+Ejemplos: 
+https://pyscript.net/examples/
+
+Tutorial YouTube
+
+
